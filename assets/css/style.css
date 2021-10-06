@@ -1,0 +1,26 @@
+#searchBtn{
+    background-color: rgb(56, 56, 255);
+    color:white;
+}
+
+#cityUV{
+    width:fit-content;
+}
+
+.forecastDay{
+    background-color: lightblue;
+    margin: 5px 5px;
+}
+
+.currentDay{
+    border: 1px solid black;
+    display: none;
+}
+
+.isCity{
+    border-radius: 25px;
+}
+
+#forecast{
+    justify-content: center;
+}
